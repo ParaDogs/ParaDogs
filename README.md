@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParaDogs
-- 👀 I’m interested in math, philosophy, information sequrity, music and anime
+- 👀 I’m interested in math, philosophy, information sequrity, machine learning, music and anime
 - 🌱 I’m currently learning category theory and acts theory
 - 📫 How to reach me simakov.vk@stundents.dvfu.ru, vakabakayo@yandex.ru
 
