@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParaDogs
+- 👋 Hi, I’m @ParaDogs. I'm studying mathematics at FEFU. 
 - 👀 I’m interested in math, philosophy, information security, machine learning, music and anime
 - 🌱 I’m currently learning category theory and cryptography
 - 📫 How to reach me simakov.vk@stundents.dvfu.ru, vakabakayo@yandex.ru
